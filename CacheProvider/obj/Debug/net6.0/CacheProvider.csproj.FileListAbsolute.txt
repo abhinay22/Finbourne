@@ -1,0 +1,12 @@
+C:\Users\arora\source\repos\CacheProvider\CacheProvider\obj\Debug\net6.0\CacheProvider.csproj.AssemblyReference.cache
+C:\Users\arora\source\repos\CacheProvider\CacheProvider\obj\Debug\net6.0\CacheProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arora\source\repos\CacheProvider\CacheProvider\obj\Debug\net6.0\CacheProvider.AssemblyInfoInputs.cache
+C:\Users\arora\source\repos\CacheProvider\CacheProvider\obj\Debug\net6.0\CacheProvider.AssemblyInfo.cs
+C:\Users\arora\source\repos\CacheProvider\CacheProvider\obj\Debug\net6.0\CacheProvider.csproj.CoreCompileInputs.cache
+C:\Users\arora\source\repos\CacheProvider\CacheProvider\bin\Debug\net6.0\CacheProvider.deps.json
+C:\Users\arora\source\repos\CacheProvider\CacheProvider\bin\Debug\net6.0\CacheProvider.dll
+C:\Users\arora\source\repos\CacheProvider\CacheProvider\bin\Debug\net6.0\CacheProvider.pdb
+C:\Users\arora\source\repos\CacheProvider\CacheProvider\obj\Debug\net6.0\CacheProvider.dll
+C:\Users\arora\source\repos\CacheProvider\CacheProvider\obj\Debug\net6.0\refint\CacheProvider.dll
+C:\Users\arora\source\repos\CacheProvider\CacheProvider\obj\Debug\net6.0\CacheProvider.pdb
+C:\Users\arora\source\repos\CacheProvider\CacheProvider\obj\Debug\net6.0\ref\CacheProvider.dll
